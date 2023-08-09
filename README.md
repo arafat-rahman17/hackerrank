@@ -1,2 +1,2 @@
-# hackerrank
-hackerrank problem solving
+# Hackerrank
+Hackerrank problem solving
